@@ -1,4 +1,4 @@
-<h2 align="left">I am Sumit kumar.  </br>Computer Science Enthusiastic & Web Developer</h2>
+<h2 align="left">I am Sumit kumar.  </br>Graphic Designer With Sometime AI Coder</h2>
 
 ###
 
